@@ -11,7 +11,7 @@ Este repositorio contiene todo el material desarrollado a lo largo de ambos curs
 - **Código:** Q01171J  
 - **Universidad:** Universidad Peruana Los Andes  
 
-![Logo de la Universidad](https://www.upla.edu.pe/wp-content/uploads/2023/09/Logo_UPLA_2025-300x103.png)
+![Logo de la Universidad](Recursos/Logo-UPLA.png)
 
 ---
 
