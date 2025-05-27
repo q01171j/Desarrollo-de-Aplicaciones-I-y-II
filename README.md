@@ -11,7 +11,7 @@ Este repositorio contiene todo el material desarrollado a lo largo de ambos curs
 - **Código:** Q01171J  
 - **Universidad:** Universidad Peruana Los Andes  
 
-![Logo de la Universidad](Recursos/Logo-UPLA.png)
+![Logo de la Universidad](Recursos/Assets/Logo-UPLA.png)
 
 ---
 
@@ -20,15 +20,17 @@ Este repositorio contiene todo el material desarrollado a lo largo de ambos curs
 Este repositorio se divide en dos secciones principales.  
 Haz clic en la que quieras explorar:
 
-### 🔹 [👉 Ir a Desarrollo de Aplicaciones I](./Desarrollo-Aplicaciones-I)
+### 🔹 [👉 Ir a Desarrollo de Aplicaciones I](./Desarrollo-Aplicaciones-I/)
 
 > En esta sección encontrarás los trabajos del curso **Desarrollo de Aplicaciones I**, donde se trabajó principalmente con interfaces gráficas en Java usando NetBeans.
 
 ---
 
-### 🔹 [👉 Ir a Desarrollo de Aplicaciones II](./Desarrollo-Aplicaciones-II)
+### 🔹 [👉 Ir a Desarrollo de Aplicaciones II](./Desarrollo-Aplicaciones-II/)
 
 > En esta sección encontrarás los materiales del curso **Desarrollo de Aplicaciones II**, enfocado en el desarrollo de aplicaciones web.
+
+---
 
 > 📌 Cada carpeta contiene su propio `README.md` con detalles sobre el contenido específico, tecnologías utilizadas y organización interna.
 
