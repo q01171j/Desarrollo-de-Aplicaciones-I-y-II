@@ -136,24 +136,38 @@ A continuación te presento los pasos para solicitar tu beneficio de estudiante:
 
 ![Guardar de Constancia de Matricula Intranet UPLA](./images/25-guardar-de-constancia-de-matricula-intranet-UPLA.png)
 
-- Abre el PDF y toma una captura de pantalla.  
-  *(Usa Alt + Shift + S para tomar la captura)*
+- Abre el PDF 
 
+![Abrir Constancia de Matricula Intranet UPLA](./images/26-abrir-constancia-de-matricula-intranet-UPLA.png)
 
+- Realiza una captura **únicamente de la parte mostrada abajo**. 
+ *(Usa Alt + Shift + S en Windows para capturar)*
+
+![Captura de Constancia de Matricula Intranet UPLA](./images/27-captura-de-constancia-de-matricula-intranet-UPLA.png)
 
 - Haz clic en la previsualización de la captura.
 
+![Previsualizacion de Constancia de Matricula Intranet UPLA](./images/28-previsualizacion-de-constancia-de-matricula-intranet-UPLA.png)
+
 - En el siguiente paso, haz clic en **Guardar**.
+
+![Guardar Imagen de Constancia de Matricula Intranet UPLA](./images/29-guardar-imagen-de-constancia-de-matricula-intranet-UPLA.png)
 
 - Regresa al proceso de verificación en GitHub, en la opción **2. Dated Official/Unofficial Transcript – Fair**, y haz clic en **Upload a file** para subir la captura, luego haz clic en **Enviar**.
 
+![Enviar Evidencia de Constancia de Matricula Intranet UPLA](./images/30-enviar-evidencia-de-constancia-de-matricula-intranet-UPLA.png)
+
 - Verás un mensaje de carga exitosa. Cierra el modal haciendo clic en la **X**.
+
+![Mensaje de Exito al Enviar Solicitud Github Education](./images/31-mensaje-de-exito-al-enviar-solicitud-github-education.png)
 
 - Espera entre 5 y 30 minutos mientras se procesa tu solicitud.
 
-- Si todo está correcto, verás una notificación indicando que tu cuenta ha sido aprobada.
+![Solicitud Pendiente Github Education](./images/32-solicitud-pendiente-github-education.png)
 
+- Si todo está correcto, verás una notificación indicando que tu cuenta ha sido aprobada. *(si es posible recarga para ver si tu solicitud ha ssido procesado)*
 
+![Solicitud Aprobada Github Education](./images/33-solicitud-aprobada-github-education.png)
 
 ---
 
@@ -169,3 +183,4 @@ Si **no completaste la sección "Payment Information"**, deberás hacerlo antes 
 
 🔁 Este paso es necesario para evitar errores o rechazos en la solicitud.
 
+![Solicitud Desaprobada Github Education](./images/34-solicitud-desaprobada-github-education.png)
