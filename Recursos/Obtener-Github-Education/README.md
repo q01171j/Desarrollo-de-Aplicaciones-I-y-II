@@ -27,25 +27,44 @@ Para ser aprobado más rápido y sin rechazos, se recomienda **crear tu cuenta d
 
 ## 🛠️ Pasos para obtener GitHub Education
 
-A continuación te presento los pasos para solicitar tu beneficio de estudiante. Puedes acompañar cada paso con las imágenes de ejemplo que tú mismo subirás a esta carpeta:
+A continuación te presento los pasos para solicitar tu beneficio de estudiante:
 
 ---
 
 ### 1️⃣ Crear cuenta en GitHub
 
-- Ve a [https://github.com/](https://github.com/)
+- Ve a [https://github.com/](https://github.com/) 🌐 *(usa Ctrl + clic para abrir en nueva pestaña)*
 
-![Pagina de Github](./images/1-pagina-de-github.png)
+![Página de GitHub](./images/1-pagina-de-github.png)
 
-- Ingresa a **Sign Up** que es para registrarte
+- Ingresa a **Sign Up**, que es para registrarte.
 
-![SignUp de Github](./images/2-signup-de-github.png)
+![Sign Up de GitHub](./images/2-signup-de-github.png)
 
-- Rellena el formulario usando tu **correo institucional** e ingresa el **país** donde se ubica tu universidad.
+- Rellena el formulario usando tu **correo institucional** e indica el **país** donde se ubica tu universidad.
 
-![Formulario de Registro de Github](./images/3-formulario-de-registro-de-github.png)
+![Formulario de registro de GitHub](./images/3-formulario-de-registro-de-github.png)
 
-- Elige un nombre de usuario profesional y seguro.
-- Confirma tu correo desde tu bandeja de entrada.
+- Selecciona **Rompecabezas visual** para verificar tu cuenta.
 
-![Crear Cuenta Github]()
+![Opciones para verificar la cuenta de GitHub](./images/4-opciones-de-verificar-la-cuenta-de-github.png)
+
+- Sigue los pasos que te indica GitHub para la verificación.
+
+![Pasos para verificar la cuenta de GitHub](./images/5-pasos-para-verificar-la-cuenta-de-github.png)
+
+- Te llegará un **código** a tu correo; ingrésalo en el formulario para completar el registro.
+
+![Código para verificar la cuenta de GitHub](./images/6-codigo-para-verificar-la-cuenta-de-github.png)
+
+- Una vez validado el código, tu cuenta habrá sido creada correctamente. Luego, inicia sesión ingresando tu correo y contraseña.
+
+![Ingresar a la cuenta de GitHub](./images/7-ingresar-a-la-cuenta-de-github.png)
+
+### 2️⃣ Solicitar GitHub Education Pack
+
+- Abre el siguiente enlace: 👉 [https://github.com/education](https://github.com/education) 🌐*(usa Ctrl + clic para abrir en nueva pestaña)*
+
+![Página de GitHub Education](./images/8-pagina-de-github-education.png)
+
+- 
