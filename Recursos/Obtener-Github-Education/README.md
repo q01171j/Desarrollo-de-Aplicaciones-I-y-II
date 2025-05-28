@@ -77,12 +77,12 @@ A continuación te presento los pasos para solicitar tu beneficio de estudiante:
 
 - Dirígete a la sección **Payment information**.
 
-![Información de Pago GitHub Education](./images/11-informacion-de-pago-github-education.png)
+![Información de Pago GitHub Education](./images/11-informacion-de-pago-gitHub-education.png)
 
 - Completa el formulario de pago y haz clic en **Save billing information**.  
   *(Esto es para verificar tu identidad y evitar que GitHub crea que eres un bot. Si no completas este formulario, al solicitar el beneficio se te pedirá hacerlo. No ingreses ningún dato en **Payment Method**).*
 
-![Formulario de Pago GitHub Education](./images/12-formulario-de-pago-github-education.png)
+![Formulario de Pago GitHub Education](./images/12-formulario-de-pago-gitHub-education.png)
 
 - Luego, regresa a la sección **Education benefits**.
 
