@@ -67,4 +67,38 @@ A continuación te presento los pasos para solicitar tu beneficio de estudiante:
 
 ![Página de GitHub Education](./images/8-pagina-de-github-education.png)
 
+- Ingresa a **Join Github Education**
+
+![Unirse a GitHub Education](./images/9-unirse-a-github-education.png)
+
+- Nos llevara a un apartado de github education
+
+![Panel de GitHub Education](./images/10-panel-de-github-education.png)
+
+- Nos Dirigimos a **Payment information**
+
+![Informacion de Pago GitHub Education](./images/11-informacion-de-pago-gitHub-education.png)
+
+- Rellenamos el formulario de pago y le damos a **Save billing information** (esto se hace para que github tenga nuestros datos reales y no crea que somos bots, sino rellenas este formulario cuando solicites te pedira ingresarlo, no ingresen **Payment Method**)
+
+![Formulario de Pago GitHub Education](./images/12-formulario-de-pago-gitHub-education.png)
+
+- Ya rellenado nos dirigimos de nuevo a **Education benefit**
+
+![Volvemos al Panel GitHub Education](./images/13-volvemos-al-panel-de-github-education.png)
+
+- Nos dirigimos a **Start an application**
+
+![Proceso de GitHub Education](./images/14-proceso-de-github-education.png)
+
+- Seleccionamos nuestro rol dentro de la institucion, **estudiante** o **docente**, y le damos a **select this school** (esta opcion saldra siempre y cuandoo te registraste ccon tu correo institucional sino tendras que buscar la institucion)
+
+![Formulario de GitHub Education](./images/15-formulario-de-github-education.png)
+
+- le damos a **Share Location** eso hara que github pueda validar nuestra ubicacion con la de la institucion, luego vuelves a darle a **continue**
+
+![Ubicacion de GitHub Education](./images/16-ubicacion-de-github-education.png)
+
+![Permiso de Ubicacion de GitHub Education](./images/17-permiso-de-ubicacion-de-github-education.png)
+
 - 
