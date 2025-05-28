@@ -63,42 +63,98 @@ A continuación te presento los pasos para solicitar tu beneficio de estudiante:
 
 ### 2️⃣ Solicitar GitHub Education Pack
 
-- Abre el siguiente enlace: 👉 [https://github.com/education](https://github.com/education) 🌐*(usa Ctrl + clic para abrir en nueva pestaña)*
+- Abre el siguiente enlace: 👉 [https://github.com/education](https://github.com/education) 🌐 *(usa Ctrl + clic para abrir en nueva pestaña)*
 
 ![Página de GitHub Education](./images/8-pagina-de-github-education.png)
 
-- Ingresa a **Join Github Education**
+- Haz clic en **Join GitHub Education**.
 
 ![Unirse a GitHub Education](./images/9-unirse-a-github-education.png)
 
-- Nos llevara a un apartado de github education
+- Serás dirigido al panel de GitHub Education.
 
 ![Panel de GitHub Education](./images/10-panel-de-github-education.png)
 
-- Nos Dirigimos a **Payment information**
+- Dirígete a la sección **Payment information**.
 
-![Informacion de Pago GitHub Education](./images/11-informacion-de-pago-gitHub-education.png)
+![Información de Pago GitHub Education](./images/11-informacion-de-pago-github-education.png)
 
-- Rellenamos el formulario de pago y le damos a **Save billing information** (esto se hace para que github tenga nuestros datos reales y no crea que somos bots, sino rellenas este formulario cuando solicites te pedira ingresarlo, no ingresen **Payment Method**)
+- Completa el formulario de pago y haz clic en **Save billing information**.  
+  *(Esto es para verificar tu identidad y evitar que GitHub crea que eres un bot. Si no completas este formulario, al solicitar el beneficio se te pedirá hacerlo. No ingreses ningún dato en **Payment Method**).*
 
-![Formulario de Pago GitHub Education](./images/12-formulario-de-pago-gitHub-education.png)
+![Formulario de Pago GitHub Education](./images/12-formulario-de-pago-github-education.png)
 
-- Ya rellenado nos dirigimos de nuevo a **Education benefit**
+- Luego, regresa a la sección **Education benefits**.
 
-![Volvemos al Panel GitHub Education](./images/13-volvemos-al-panel-de-github-education.png)
+![Volver al Panel GitHub Education](./images/13-volvemos-al-panel-de-github-education.png)
 
-- Nos dirigimos a **Start an application**
+- Haz clic en **Start an application**.
 
-![Proceso de GitHub Education](./images/14-proceso-de-github-education.png)
+![Iniciar Solicitud GitHub Education](./images/14-proceso-de-github-education.png)
 
-- Seleccionamos nuestro rol dentro de la institucion, **estudiante** o **docente**, y le damos a **select this school** (esta opcion saldra siempre y cuandoo te registraste ccon tu correo institucional sino tendras que buscar la institucion)
+- Selecciona tu rol dentro de la institución (**Student** o **Teacher**) y haz clic en **Select this school**.  
+  *(Esta opción aparecerá automáticamente si te registraste con tu correo institucional. Si no, deberás buscar manualmente tu universidad).*
 
 ![Formulario de GitHub Education](./images/15-formulario-de-github-education.png)
 
-- le damos a **Share Location** eso hara que github pueda validar nuestra ubicacion con la de la institucion, luego vuelves a darle a **continue**
+- Haz clic en **Share location**. Esto permitirá que GitHub valide tu ubicación con la de la institución. Luego haz clic en **Continue**.
 
-![Ubicacion de GitHub Education](./images/16-ubicacion-de-github-education.png)
+![Ubicación GitHub Education](./images/16-ubicacion-de-github-education.png)
 
-![Permiso de Ubicacion de GitHub Education](./images/17-permiso-de-ubicacion-de-github-education.png)
+![Permiso de Ubicación GitHub Education](./images/17-permiso-de-ubicacion-de-github-education.png)
 
-- 
+- Se abrirá una sección donde deberás subir una prueba de que eres estudiante. Haz clic en **Select one** y selecciona la opción  
+  **2. Dated Official/Unofficial Transcript – Fair**.
+
+![Seleccionar tipo de prueba](./images/18-seleccion-forma-validar-de-github-education.png)
+
+- Para obtener esta constancia, abre el siguiente enlace: 👉 [https://intranet.upla.edu.pe/sesion](https://intranet.upla.edu.pe/sesion) 🌐 *(usa Ctrl + clic para abrir en nueva pestaña)*
+
+![Página Intranet UPLA](./images/19-pagina-intranet-upla.png)
+
+- Ingresa tus credenciales del intranet y se te redirigirá al **inicio** del sistema.
+
+- Accede a la opción **Académico**.
+
+- En la barra de navegación derecha, selecciona:  
+  **Vida Universitaria > Consolidado de asignaturas matriculadas**
+
+- Haz clic en **Ver constancia de matrícula**.
+
+- Luego, haz clic en **Imprimir constancia**.
+
+- En el campo **Destino**, selecciona **Guardar como PDF**.
+
+- Haz clic en **Guardar**.
+
+- Abre el PDF y toma una captura de pantalla.  
+  *(Usa Alt + Shift + S para tomar la captura)*
+
+- Haz clic en la previsualización de la captura.
+
+- En el siguiente paso, haz clic en **Guardar**.
+
+- Regresa al proceso de verificación en GitHub, en la opción **2. Dated Official/Unofficial Transcript – Fair**, y haz clic en **Upload a file** para subir la captura, luego haz clic en **Enviar**.
+
+- Verás un mensaje de carga exitosa. Cierra el modal haciendo clic en la **X**.
+
+- Espera entre 5 y 30 minutos mientras se procesa tu solicitud.
+
+- Si todo está correcto, verás una notificación indicando que tu cuenta ha sido aprobada.
+
+
+
+---
+
+❗ **IMPORTANTE**
+
+Si **no completaste la sección "Payment Information"**, deberás hacerlo antes de continuar.
+
+1. Ingresa a **Payment Information**, completa los datos (sin ingresar método de pago).
+2. Guarda la información.
+3. Cierra sesión en GitHub.
+4. Inicia sesión nuevamente.
+5. Vuelve al proceso desde **Start an application**.
+
+🔁 Este paso es necesario para evitar errores o rechazos en la solicitud.
+
