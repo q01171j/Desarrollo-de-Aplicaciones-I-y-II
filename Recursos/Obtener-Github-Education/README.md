@@ -173,7 +173,7 @@ A continuación te presento los pasos para solicitar tu beneficio de estudiante:
 
 ❗ **IMPORTANTE**
 
-Si **no completaste la sección "Payment Information"**, deberás hacerlo antes de continuar.
+Si **no completaste la sección "Payment Information"**, deberás hacerlo antes de continuar:
 
 1. Ingresa a **Payment Information**, completa los datos (sin ingresar método de pago).
 2. Guarda la información.
@@ -182,5 +182,10 @@ Si **no completaste la sección "Payment Information"**, deberás hacerlo antes 
 5. Vuelve al proceso desde **Start an application**.
 
 🔁 Este paso es necesario para evitar errores o rechazos en la solicitud.
+
+📝 **Además**, si vas a volver a subir tu constancia o evidencia de matrícula, **cambia el nombre del archivo antes de enviarlo**.  
+> GitHub no permite subir un archivo con el mismo nombre si ya lo enviaste anteriormente y podría bloquear el nuevo intento.  
+Por ejemplo:  
+- Si antes subiste `constancia.png`, ahora cámbialo a `constancia2.png` o `evidencia_upla.png` antes de hacer la carga.
 
 ![Solicitud Desaprobada Github Education](./images/34-solicitud-desaprobada-github-education.png)
