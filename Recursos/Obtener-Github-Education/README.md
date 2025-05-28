@@ -110,7 +110,7 @@ A continuación te presento los pasos para solicitar tu beneficio de estudiante:
 
 - Para obtener esta constancia, abre el siguiente enlace: 👉 [https://intranet.upla.edu.pe/sesion](https://intranet.upla.edu.pe/sesion) 🌐 *(usa Ctrl + clic para abrir en nueva pestaña)*
 
-![Página Intranet UPLA](./images/19-pagina-intranet-upla.png)
+![Página Intranet UPLA](./images/19-pagina-intranet-UPLA.png)
 
 - Ingresa tus credenciales del intranet y se te redirigirá al **inicio** del sistema.
 
