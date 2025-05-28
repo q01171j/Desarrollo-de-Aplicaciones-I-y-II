@@ -112,23 +112,34 @@ A continuación te presento los pasos para solicitar tu beneficio de estudiante:
 
 ![Página Intranet UPLA](./images/19-pagina-intranet-UPLA.png)
 
-- Ingresa tus credenciales del intranet y se te redirigirá al **inicio** del sistema.
+- Ingresa tus credenciales del intranet y se te redirigirá al **inicio** del sistema y accederemos a la opción **Académico**.
 
-- Accede a la opción **Académico**.
+![Inicio Intranet UPLA](./images/20-inicio-intranet-UPLA.png)
 
-- En la barra de navegación derecha, selecciona:  
-  **Vida Universitaria > Consolidado de asignaturas matriculadas**
+- En la barra de navegación derecha, selecciona: **Vida Universitaria > Consolidado de asignaturas matriculadas**
+
+![Academico Intranet UPLA](./images/21-academico-intranet-UPLA.png)
 
 - Haz clic en **Ver constancia de matrícula**.
 
+![Constancia de Matricula Intranet UPLA](./images/22-constancia-de-matricula-intranet-UPLA.png)
+
 - Luego, haz clic en **Imprimir constancia**.
+
+![Imprimir Constancia de Matricula Intranet UPLA](./images/23-imprimir-constancia-de-matricula-intranet-UPLA.png)
 
 - En el campo **Destino**, selecciona **Guardar como PDF**.
 
+![Previsualizacion de Constancia de Matricula Intranet UPLA](./images/24-previsualizacion-de-constancia-de-matricula-intranet-UPLA.png)
+
 - Haz clic en **Guardar**.
+
+![Guardar de Constancia de Matricula Intranet UPLA](./images/25-guardar-de-constancia-de-matricula-intranet-UPLA.png)
 
 - Abre el PDF y toma una captura de pantalla.  
   *(Usa Alt + Shift + S para tomar la captura)*
+
+
 
 - Haz clic en la previsualización de la captura.
 
