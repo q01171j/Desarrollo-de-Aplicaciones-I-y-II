@@ -24,8 +24,6 @@ Haz clic en la que quieras explorar:
 
 > En esta sección encontrarás los trabajos del curso **Desarrollo de Aplicaciones I**, donde se trabajó principalmente con interfaces gráficas en Java usando NetBeans.
 
----
-
 ### 🔹 [👉 Ir a Desarrollo de Aplicaciones II](./Desarrollo-Aplicaciones-II/)
 
 > En esta sección encontrarás los materiales del curso **Desarrollo de Aplicaciones II**, enfocado en el desarrollo de aplicaciones web.
