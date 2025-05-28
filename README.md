@@ -36,6 +36,16 @@ Haz clic en la que quieras explorar:
 
 ---
 
+## 🎁 Obtén GitHub Education
+
+¿Eres estudiante universitario? Entonces puedes acceder gratis a **herramientas profesionales** como GitHub Pro, dominios gratis, IDEs de JetBrains, Canva Pro y más.
+
+👉 [Haz clic aquí para ver cómo obtener GitHub Education](./Recursos/Obtener-Github-Education/)
+
+> Dentro encontrarás una guía paso a paso con capturas, recursos y recomendaciones para aprovechar al máximo este beneficio exclusivo para estudiantes.
+
+---
+
 ## 🙌 Gracias por visitar mi repositorio
 
 > Siéntete libre de explorar, comentar o sugerir mejoras.  
